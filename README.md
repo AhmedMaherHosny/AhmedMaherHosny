@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ahmedmaher22292@gmail.com**
 
-- 📄 Know about my experiences [soon](soon)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1Li8SuQdUD_98GnFwchrFxXVxCyCGXHjb/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm singer haha**
 
