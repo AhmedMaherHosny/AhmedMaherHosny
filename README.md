@@ -41,7 +41,7 @@
 <p><a href="https://ko-fi.com/ahmedmaher"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ahmedmaher" /></a></p><br><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmaherhosny&show_icons=true&locale=en&layout=compact" alt="ahmedmaherhosny" />
-<br><br><br>
+<br><br><br><br><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmaherhosny&show_icons=true&locale=en" alt="ahmedmaherhosny" /></p>
-<br><br><br>
+<br><br><br><br><br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmaherhosny&" alt="ahmedmaherhosny" /></p>
