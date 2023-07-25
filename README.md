@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Maher</h1>
-<h3 align="center">Android developer (Kotlin-Java) && Backend(Express.js)</h3>
+<h3 align="center">Android developer && Backend(Node.js) && Databases(MongoDB - OracleDB)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmaherhosny&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmaherhosny" /> </p>
 
