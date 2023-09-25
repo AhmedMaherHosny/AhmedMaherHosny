@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/ahmedmaher22292" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedmaher22292?logo=twitter&style=for-the-badge" alt="ahmedmaher22292" /></a> </p>
 
-- 🔭 I’m currently working on **Nike Store**
+- 🔭 I’m currently working on **None**
 
-- 🌱 I’m currently learning **Clean Architecture in android**
+- 🌱 I’m currently learning **Docker**
 
 - 👨‍💻 All of my projects are available at [soon](soon)
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Android | Backend**
 
 - 📫 How to reach me **ahmedmaher22292@gmail.com**
 
