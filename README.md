@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Maher</h1>
-<h3 align="center">Android developer && Backend(Node.js) && Databases(MongoDB - OracleDB)</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmaherhosny&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmaherhosny" /> </p>
 
@@ -10,16 +10,18 @@
 - 🔭 I’m currently working on **None**
 
 - 🌱 I’m currently learning **Docker**
-
+  
+- 🌱 I’m currently reading **System Design**
+  
 - 👨‍💻 All of my projects are available at [soon](soon)
 
-- 💬 Ask me about **Android | Backend**
+- 💬 Ask me about **Android | FullStack**
 
-- 📫 How to reach me **ahmedmaher22292@gmail.com**
+- 📫 How to reach me **ahmed.maher.hosny.dev@gmail.com**
 
 - 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1Li8SuQdUD_98GnFwchrFxXVxCyCGXHjb/view?usp=sharing)
 
-- ⚡ Fun fact **I think I'm singer haha**
+- ⚡ Fun fact **I think I'm singer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
