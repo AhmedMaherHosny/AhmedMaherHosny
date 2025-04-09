@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ahmed.maher.hosny.dev@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1Li8SuQdUD_98GnFwchrFxXVxCyCGXHjb/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1TnUBMhY9PYe-NRXe5MFUblkAfJE8vFeR/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm singer**
 
